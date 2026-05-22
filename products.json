@@ -1,1 +1,27 @@
-
+{
+  "store_name": "RAZA SELECTION",
+  "whatsapp_number": "910000000000",
+  "products": [
+    {
+      "id": 1,
+      "title": "Premium Oudh Attar",
+      "category": "Attar",
+      "price": 450,
+      "image": "https://via.placeholder.com/250x250?text=Attar"
+    },
+    {
+      "id": 2,
+      "title": "Bahar-e-Shariat (Mukammal)",
+      "category": "Books",
+      "price": 850,
+      "image": "https://via.placeholder.com/250x250?text=Book"
+    },
+    {
+      "id": 3,
+      "title": "Sindhi Topi Premium",
+      "category": "Topi",
+      "price": 300,
+      "image": "https://via.placeholder.com/250x250?text=Topi"
+    }
+  ]
+}
